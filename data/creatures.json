@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"Woman in White",
+        "type":"spirit",
+        "weaknesses":"iron"
+    },
+    {
+        "id":2,  
+        "name":"Werewolf",
+        "type":"monster",
+        "weaknesses":"silver"
+    },
+    {
+        "id":3,
+        "name":"Shape-shifter",
+        "type":"monster",
+        "weaknesses":"silver"
+    }
+
+]
